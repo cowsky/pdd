@@ -1,0 +1,126 @@
+{
+  "ret": true,
+  "data": {
+    "goodsMsg": [
+      {
+        "id": "01",
+        "goodImg": "//t00img.yangkeduo.com/goods/images/2019-04-22/1dce37f0-6a78-4509-9a65-cf697081656c.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/312/q/70/format/webp",
+        "userImgs": [
+          "//t20img.yangkeduo.com/a/12950bb2ebd6c6b9e2d954c2048aad102e3deab0-1532490645?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+          "//t20img.yangkeduo.com/a/03897f07057822c04867e04c235568c17d97b468-1560001863?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp"
+        ],
+        "goodDesc": "中老年女士短袖t恤妈妈装夏装大码宽松40-50岁上衣2019新款雪纺衫",
+        "goodPrice": "11.8",
+        "goodPin": "已拼10万+件"
+      },
+      {
+        "id": "02",
+        "goodImg": "//t00img.yangkeduo.com/goods/images/2019-07-27/6197ca10-8390-417e-b1a5-34a4e8e6c63b.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/312/q/70/format/webp",
+        "userImgs": [
+          "//t20img.yangkeduo.com/a/03897f07057822c04867e04c235568c17d97b468-1560001863?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+          "//t21img.yangkeduo.com/a/a33471e12deada02df501438153064e478aa02a5-1518357175?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp"
+        ],
+        "goodDesc": "手机磁吸数据线安卓苹果type-c磁铁磁头三合一华为oppo数据线通用",
+        "goodPrice": "2.43",
+        "goodPin": "已拼2.9万件"
+      },
+      {
+        "id": "03",
+        "goodImg": "//t00img.yangkeduo.com/goods/images/2019-06-26/c63c0b82-0236-4ea9-a6c4-b27066e6d4f8.jpg?imageMogr2/strip%7CimageView2/2/w/1300/q/80",
+        "userImgs": [
+          "//pinduoduoimg.yangkeduo.com/avatar/default/10.png@1300w_1l_70Q_50sh.webp",
+          "//pinduoduoimg.yangkeduo.com/avatar/default/8.png@44w_1l_70Q_50sh.webp"
+        ],
+        "goodDesc": "磁吸数据线手机安卓苹果type-c快充电线华为oppovivo通用磁铁吸头",
+        "goodPrice": "4.9",
+        "goodPin": "已拼4.3万"
+      },
+      {
+        "id": "04",
+        "goodImg": "//t00img.yangkeduo.com/goods/images/2019-05-24/0b4edf4e-fa57-46b2-a03a-d101f51a9871.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/312/q/70/format/webp",
+        "userImgs": [
+          "//pinduoduoimg.yangkeduo.com/avatar/default/1.png@1300w_1l_70Q_50sh.webp"
+        ],
+        "goodPrice": "1.11",
+        "goodDesc": "洗碗布不沾油抹布厨房吸水擦碗百洁布不掉毛擦桌擦手擦手巾清洁巾",
+        "goodPin": "已拼10万+件"
+      },
+      {
+        "id": "05",
+        "goodImg": "//t00img.yangkeduo.com/goods/images/2019-05-16/8b7f9b20-8fa4-45fb-8f95-79ccf38b79bd.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/312/q/70/format/webp",
+        "userImgs": [
+          "//pinduoduoimg.yangkeduo.com/avatar/default/1.png@1300w_1l_70Q_50sh.webp"
+        ],
+        "goodPrice": "9.31",
+        "goodDesc": "硅藻泥脚垫浴室防滑垫硅藻土脚垫吸水速干卫浴卫生间门口地垫家用",
+        "goodPin": "已拼2.7万件"
+      }
+
+    ],
+    "narBarMsg":["首页","女装","男装","童装","食品","电器","内衣","家具","洗护","美妆","汽车","家纺"],
+    "iconMsg":[
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/930fb89401af1a746571234ae07dd524.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"春夏新品"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/2cc4c23633254bcaa0b535f5efcb1978.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"短袖"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/fbb13dd92e4d5be84e5b68f7162ac95c.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"连衣裙"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-04-18/56da5704b225b202a88289bd9dcc5bb9.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"半身裙"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/28437fbf556782c8863ab1ed604dd90a.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"裤装"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/6381f66e5aef0c9d91103f32c616aab7.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"套装"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/fe2e760c669c9d97d283ed7f7b5e8003.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"衬衫"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/ace6b97778b556d2a6466e6a3047934a.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"蕾丝雪纺衫"
+      },
+      {
+        "iconImg":"//t00img.yangkeduo.com/goods/images/2019-02-17/011c4644a630179eb576ef079fe717de.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "iconText":"上衣外套"
+      },
+      {
+        "iconImg":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsBAMAAADsqkcyAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAhUExURQAAAODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4P7+/u/v73koT0EAAAAIdFJOUwBO8rKJ1CMLoiR1VwAAANtJREFUKM91kz0OwjAMhYNAsFaIgRUxkBEhIXWErTtLR46AuAFpKxlOQHoCekvitI2a1u8NkfUl8k9sK9VqtTlrc7s+VKTZibz2SURz6lQN+DKloOIe8JoG2vV0QZEuHc5iXIqP++fbMX75NPQYG05mThMdJR+tl3yKK1c3CUok1+z8KeGDFJFjZhIuVSrhQsqPM+TSP/bnzqYOplF82diaARNvOqwlTDI2PuTbft1pbTArlCAoBxQPvgp8LGgDaBpqMRgIMD5g2NBogkFGYw+WBK0UWEC0rpPl/gMSMZBtc0a6EQAAAABJRU5ErkJggg==",
+        "iconText":"查看全部"
+      }
+    ],
+    "footerMsg":[
+      {
+        "icon":"//t13img.yangkeduo.com/cart/2018-09-02/4149b41e8ade31e7487e12e372e13d69.png?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+        "text":"首页"
+      },
+      {
+        "icon":"//t13img.yangkeduo.com/cart/2018-09-02/2d711f06701926c7cab62b7d0a3fe116.png?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+        "text":"推荐"
+      },
+      {
+        "icon":"//t13img.yangkeduo.com/cart/2018-09-02/bb0d9124521ad997e4a970c5251a130b.png?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+        "text":"搜索"
+      },
+      {
+        "icon":"//t13img.yangkeduo.com/cart/2018-09-02/40e2c153f09720b43044dfa82f771714.png?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+        "text":"聊天"
+      },
+      {
+        "icon":"//t13img.yangkeduo.com/cart/2018-09-02/8d22d9ba476f49fbebb66c8cf0d0aaab.png?imageMogr2/sharpen/1%7CimageView2/2/w/1300/q/70/format/webp",
+        "text":"个人中心"
+      }
+    ]
+  }
+}

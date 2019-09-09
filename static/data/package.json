@@ -1,0 +1,120 @@
+{
+  "selectorInfo": [
+    {
+      "id":"01",
+      "initImage":"//t00img.yangkeduo.com/goods/images/2019-05-29/43cf0f87b207d0c887ee1f095b9d95ae.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+      "initPrice":"11.8",
+      "selectState":"请选择",
+      "colorState":"颜色",
+      "sizeState":"尺码",
+      "skuColor":[
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-08-06/1a942cda13ec704c7330dff4aaf7f3cd.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "大红色"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-07-31/53992cb7-a5d5-43ac-84d2-53e12c2c46e5.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "墨緑色"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-07-31/158bfa8f-99e7-4568-ace0-bf88dd6f5c58.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "焦糖色"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-07-31/e4891900-3a22-4e0d-b1e6-738353006a78.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "纯黑色"
+        }
+      ],
+      "skuSize":[
+        "XL【建议体重85斤-105斤】","2XL【建议体重106斤-120斤】","3XL【建议体重121斤-135斤】","4XL【建议体重135斤-150斤】","5XL【建议体重151斤-162斤】"
+      ]
+    },
+    {
+      "id":"05",
+      "initImage":"//t00img.yangkeduo.com/goods/images/2019-05-16/8b7f9b20-8fa4-45fb-8f95-79ccf38b79bd.jpg?imageMogr2/strip%7CimageView2/2/w/1300/q/80",
+      "initPrice":"9.31",
+      "selectState":"请选择",
+      "colorState":"颜色",
+      "sizeState":"尺码",
+      "skuColor":[
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-08-21/ef565670-e446-4bf0-b73c-ae590c485fd5.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "灰色"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-08-21/c1d1d9fb-23c9-460a-b9ba-0cec0cce8897.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "粉色"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-08-21/85d6ff1d-1747-4e80-82e1-3bcee04a2336.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "绿色"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-08-21/f75326f4-0345-41ae-a9fb-f50b7dad6281.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "蓝色"
+        }
+      ],
+      "skuSize":[
+        "【超大号】60*39CM","【中号】40*30CM","3XL【建议体重121斤-135斤】","【儿童脚垫/洗漱垫】30*20CM"
+      ]
+    },
+    {
+      "id":"02",
+      "initImage":"//t00img.yangkeduo.com/goods/images/2019-07-27/6197ca10-8390-417e-b1a5-34a4e8e6c63b.jpg?imageMogr2/strip%7CimageView2/2/w/1300/q/80",
+      "initPrice":"2.43",
+      "selectState":"请选择",
+      "colorState":"颜色",
+      "sizeState":"尺码",
+      "skuColor":[
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-03-05/e2fca13477a67bb050189c2b72ce3436.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "中国红"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-03-06/2aa56cc7-2526-4696-87e0-3f36cacfbc35.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "炫酷黑"
+        }
+      ],
+      "skuSize":[
+        "1线一头（安卓）","1线一头（苹果）","1线一头（Type-c）","1线两头（安卓+Type-c）","1线两头（安卓+苹果）"
+      ]
+    },
+    {
+      "id":"03",
+      "initImage":"//t00img.yangkeduo.com/goods/images/2019-06-26/c63c0b82-0236-4ea9-a6c4-b27066e6d4f8.jpg?imageMogr2/strip%7CimageView2/2/w/1300/q/80",
+      "initPrice":"4.9",
+      "selectState":"请选择",
+      "colorState":"颜色",
+      "sizeState":"尺码",
+      "skuColor":[
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-06-30/e473e2d1-f9a5-4fcb-bb24-bf830339ea83.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "1米：红【快充不伤机】"
+        },
+        {
+          "img": "//t00img.yangkeduo.com/goods/images/2019-06-30/fa7142c7-896a-4220-8287-b04daaf3b310.jpg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+          "color": "1米：黑【快充不伤机】"
+        }
+      ],
+      "skuSize":[
+        "安卓","苹果"
+      ]
+    },
+    {
+      "id":"04",
+      "initImage":"//t00img.yangkeduo.com/goods/images/2019-08-08/638ea669f0b40a32451172a8dba4e4ee.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/300/q/70/format/webp",
+      "initPrice":"1.11",
+      "selectState":"请选择",
+      "colorState":"",
+      "sizeState":"尺码",
+      "skuSize":[
+        {
+          "price": "",
+          "size": ""
+        },
+        "三条清洁巾（随机发放）","五条清洁巾（随机发放）","十条清洁巾（随机发放）"
+      ]
+    }
+  ]
+
+}
